@@ -44,7 +44,7 @@ example!!!
 
 Using the search bar on top type Templates
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/Search.png)
 
 - Create a new template
 
