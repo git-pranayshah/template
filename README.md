@@ -34,7 +34,7 @@ example!!!
 - A Spoke Azure Virtual Network for allocation Azure Virtual Desktop Hostpools.
 - A Network Security Group with the necessary outbound rules for Azure Virtual Desktop Hostpools to properly activate and work.
 
-
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/AVD%20Landing%20Zone%20Diagram.png)
 
 [Template.json](Template.json) can be modified to match your current infrastructure needs.
 
@@ -44,27 +44,27 @@ example!!!
 
 Using the search bar on top type Templates
 
-![alt image](https://github.com/git-pranayshah/template/blob/master/Search.png)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/Search.png)
 
 - Create a new template
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/create.png)
 
 - Give a name and a description to the template
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/Name%20and%20Description.png)
 
 - Add for modified [Template.json](Template.json) and save it
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/add%20code.png)
 
 - Select the newly added template and click deploy
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/Select%20and%20deploy%20template.png)
 
 - Fill out the blanks with your details and click purchase
 
-![alt image](image URI)
+![alt image](https://github.com/git-pranayshah/template/blob/master/images/Fill%20out%20the%20details%20and%20purchase.png)
 
 - Allow 30 minutes for the deployment to complete
 - Peer your Hub and Spoke Virtual Networks as needed
