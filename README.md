@@ -29,7 +29,15 @@ example!!!
 [Template.json](https://github.com/git-pranayshah/template/blob/master/template.json) can be modified to match your current infrastructure needs.
 
 ## One Click Deploying Teamplate
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/git-pranayshah/template/master/template.json?token=GHSAT0AAAAAABSFVRSG6CT2QLFAUT3HUBFSYRHIKEQ)
+<!-- Powershell command for Translating Git URL for template.json
+    $url = "https://raw.githubusercontent.com/git-pranayshah/template/master/template.json"
+    [uri]::EscapeDataString($url)
+    >> uri = https%3A%2F%2Fraw.githubusercontent.com%2Fgit-pranayshah%2Ftemplate%2Fmaster%2Ftemplate.json
+
+Base URL: https://portal.azure.com/#create/Microsoft.Template/uri
+Final URL: <Base URL>/<uri>
+-->
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fgit-pranayshah%2Ftemplate%2Fmaster%2Ftemplate.json)
 
 
 ## Deploying an ARM Template using the Azure portal
