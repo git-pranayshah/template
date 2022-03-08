@@ -25,7 +25,7 @@ Azure landing zones are the output of a multisubscription Azure environment that
 
 # Product/LZ architecture
 
-The [Template.json](Template.json) Azure Resource Manager template will help you automatically deploy the diagram below, which includes:
+The [Template.json](https://github.com/git-pranayshah/template/blob/master/template.json) Azure Resource Manager template will help you automatically deploy the diagram below, which includes:
 
 example!!!
 
@@ -36,7 +36,7 @@ example!!!
 
 ![alt image](https://github.com/git-pranayshah/template/blob/master/images/AVD%20Landing%20Zone%20Diagram.png)
 
-[Template.json](Template.json) can be modified to match your current infrastructure needs.
+[Template.json](https://github.com/git-pranayshah/template/blob/master/template.json) can be modified to match your current infrastructure needs.
 
 ## Deploying an ARM Template using the Azure portal
 
@@ -54,7 +54,7 @@ Using the search bar on top type Templates
 
 ![alt image](https://github.com/git-pranayshah/template/blob/master/images/Name%20and%20Description.png)
 
-- Add for modified [Template.json](Template.json) and save it
+- Add for modified [Template.json](https://github.com/git-pranayshah/template/blob/master/template.json) and save it
 
 ![alt image](https://github.com/git-pranayshah/template/blob/master/images/add%20code.png)
 
