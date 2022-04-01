@@ -84,7 +84,7 @@ example!!
 - https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal#peer-virtual-networks
 - https://docs.microsoft.com/en-us/azure/virtual-desktop/safe-url-list#virtual-machines
 
-## Licensing & Contribute
+## License & Contribute
 
 You are responsible for the performance, the necessary testing, and if needed any regulatory clearance for any of the models produced by this toolbox.
 Please refer [LICENSE](LICENSE) &  [Contribute](https://github.com/git-pranayshah/AnalysisService/blob/master/Contribute.md) for more details
